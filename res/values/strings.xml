@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PlaceIts</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_sign_out">Sign Out</string>
+    <string name="lat_lng">Default latitude,longitute</string>
+    <string name="active_list">List of Active PlaceIts</string>
+    <string name="inactive_list">List of Inactive PlaceIts</string>
+
+    <string-array name="spinner_list">
+        <item>options</item>
+        <item>Logout</item>
+        <item>Active Place-Its</item>
+        <item>Inactive Place-its</item>
+        <item> Create Categorical PlaceIts</item>
+    </string-array>
+    <string-array name="category_list">
+        <item>Please select a category</item>
+        <item>Accounting</item>
+        <item>Airport</item>
+        <item>Amusement_Park</item>
+        <item>Aquarium</item>
+        <item>Art_Gallery</item>
+        <item>Atm</item>
+        <item>Bakery</item>
+        <item>Bank</item>
+        <item>Bar</item>
+        <item>Beauty_Salon</item>
+        <item>Book_Store</item>
+        <item>Bowling_Alley</item>
+        <item>Bus_Station</item>
+        <item>cafe</item>
+        <item>Campground</item>
+        <item>Car_Dealer</item>
+        <item>Car_Rental</item>
+        <item>Car_Repair</item>
+        <item>Car_Wash</item>
+        <item>Casino</item>
+        <item>Cemetary</item>
+        <item>Church</item>
+        <item>City_Hall</item>
+        <item>Clothing_store</item>
+        <item>Convenience_Store</item>
+        <item>Courthouse</item>
+        <item>Dentist</item>
+        <item>Department_Store</item>
+        <item>Doctor</item>
+        <item>Electrician</item>
+        <item>Electronics_Store</item>
+        <item>Embassy</item>
+        <item>Establishment</item>
+        <item>Finance</item>
+        <item>Fire_station</item>
+        <item>Florist</item>
+        <item>Food</item>
+        <item>Funeral_home</item>
+        <item>Furniture_Store</item>
+        <item>Gas_station</item>
+        <item>General_contractor</item>
+        <item>Grocery_or_supermarket</item>
+        <item>Gym</item>
+        <item>Hair_care</item>
+        <item>Hardware_store</item>
+        <item>Health</item>
+        <item>Hindu_Temple</item>
+        <item>Home_goods_store</item>
+        <item>Hospital</item>
+        <item>Insurance_agency</item>
+        <item>Jewelry_store</item>
+        <item>Laundry</item>
+        <item>Library</item>
+		<item>lawyer</item>
+        <item>Liquor_store</item>
+		<item>Local_government_office</item>
+        <item>locksmith</item>
+		<item>lodging</item>
+        <item>meal_delivery</item>
+		<item>meal_takeaway</item>
+        <item>moque</item>
+		<item>movie_rental</item>
+        <item>movie_theater</item>
+		<item>moving_company</item>
+        <item>museum</item>
+		<item>night_club</item>
+        <item>painter</item>
+		<item>park</item>
+        <item>parking</item>
+		<item>pet_store</item>
+        <item>pharmacy</item>
+		<item>physiotherapist</item>]
+        <item>place_of_worship</item>
+		<item>plumber</item>
+        <item>police</item>
+		<item>post_office</item>
+        <item>real_estate_agency</item>
+		<item>restaurant</item>
+		<item>roofing_contractor</item>
+		<item>rv_park</item>
+		<item>school</item>
+		<item>shoe_store</item>
+		<item>shopping_mall</item>
+		<item>spa</item>
+		<item>stadium</item>
+		<item>storage</item>
+		<item>store</item>
+		<item>subway_station</item>
+		<item>synagogue</item>
+		<item>taxi_stand</item>
+		<item>train_station</item>
+		<item>travel_agency</item>
+		<item>university</item>
+		<item>veterniary_care</item>
+		<item>zoo</item>
+		
+		
+    </string-array>
+
+    <string name="title_activity_categorical">CategoricalActivity</string>
+
+</resources>
